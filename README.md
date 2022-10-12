@@ -1,8 +1,5 @@
 # Navbar-Transition_HTML_CSS
 Different Navbar Transition effects
-<video controls autoplay loop>
-  <source src="https://user-images.githubusercontent.com/93931081/195346143-cf765f95-0563-40a6-8c81-8a5c956467ce.mp4" type="video/mp4">
-</video>
 
-https://user-images.githubusercontent.com/93931081/195346143-cf765f95-0563-40a6-8c81-8a5c956467ce.mp4
+<img src="https://user-images.githubusercontent.com/93931081/195348418-b8514795-0180-461e-8101-e4b9328acdcf.gif">
 
